@@ -1,0 +1,16 @@
+Naveen Shanmugam Resume
+
+Email: hello@example.com
+LinkedIn: linkedin.com/in/yourname
+GitHub: github.com/yourname
+
+Summary
+Software developer focused on building modern web applications and reliable backend systems.
+
+Experience
+- Senior Software Developer (2024-Present)
+- Full Stack Developer (2022-2024)
+- Software Engineer (2020-2022)
+
+Skills
+JavaScript, TypeScript, React, Node.js, Python, PostgreSQL, Docker, AWS
